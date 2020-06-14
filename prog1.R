@@ -6,4 +6,3 @@ mean(mtcars$mpg)
 
 mean(mtcars$wt)
 
-summary(mtcars)
